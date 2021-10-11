@@ -1,0 +1,19 @@
+html{
+    font-family: 'vazir' ,serif;
+    color: black;
+}
+body{
+    margin: 0;
+
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.hero h1{
+    font-size: 2rem;
+}
